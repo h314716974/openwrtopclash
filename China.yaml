@@ -70,3 +70,28 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
+  # > xuexi
+  - DOMAIN,szlong.weixin.qq.com
+  - DOMAIN,api.io.mi.com
+  - DOMAIN,szminorshort.weixin.qq.com
+  - DOMAIN,lws.xuexi.cn
+  - DOMAIN,weixin.qq.com
+  - DOMAIN,zwwx.gdzwfw.gov.cn
+  - DOMAIN,gdzwfw.gov.cn
+  - DOMAIN,safebrowsing.googleapis.com
+  - DOMAIN,appresource.xuexi.cn
+  - DOMAIN,study.xuexi.cn
+  - DOMAIN,mall.xuexi.cn
+  - DOMAIN,h5.xuexi.cn
+  - DOMAIN,h5.xuexi.cn
+  - DOMAIN,boot-video.xuexi.cn
+  - DOMAIN,down.xuexi.cn
+  - DOMAIN,boot-img.xuexi.cn
+  - DOMAIN,pack-mini.xuexi.cn
+  - DOMAIN,lws-short2.xuexi.cn
+  - DOMAIN,px-itrace.xuexi.cn
+  - DOMAIN,open.xuexi.cn
+  - DOMAIN,xc.caict.ac.cn
+  - DOMAIN,mpaas-component-mgs4zwy.aliyuncs.com
+  - DOMAIN,px-itrace.xuexi.cn
+  - DOMAIN,umid.xuexi.cn
